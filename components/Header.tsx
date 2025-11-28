@@ -17,7 +17,7 @@ export const Header: React.FC = () => {
         {/* Logo Container */}
         <div className="w-28 h-28 bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl flex items-center justify-center shadow-[0_0_40px_rgba(59,130,246,0.2)] mx-auto md:mx-0 overflow-hidden p-4 relative group">
             <img 
-              src="https://img.notionusercontent.com/s3/prod-files-secure%2F98cf5535-6f34-81f1-a9ad-000323f7d8ed%2F0c535e01-70e2-4449-9d58-3c2c1005550e%2Fico.ico/size/?exp=1763721418&sig=Whsb3yiGMl2UjlaiaTioZe2Cz8NeIT9z5KlfucMQIlg&id=2b1f5535-6f34-80e1-845b-e0c923282849&table=block&userId=27ad872b-594c-81ce-8d37-0002a5bdf2db" 
+              src="https://raw.githubusercontent.com/limkkk1/assets/main/ico.ico" 
               alt="Nexus Logo" 
               className="w-full h-full object-contain opacity-90 drop-shadow-[0_0_10px_rgba(255,255,255,0.3)] group-hover:scale-110 transition-transform duration-500"
             />
